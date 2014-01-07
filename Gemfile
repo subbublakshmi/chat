@@ -7,6 +7,7 @@ gem 'heroku', '2.4.0'
 gem 'thin'
 gem 'pg'
 # Use mysql as the database for Active Record
+gem 'mysql'
 gem 'mysql2'
 
 # Use SCSS for stylesheets
