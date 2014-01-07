@@ -5,6 +5,7 @@ ruby '1.9.3'
 gem 'rails', '4.0.2'
 gem 'heroku', '2.4.0'
 gem 'thin'
+gem 'pg'
 # Use mysql as the database for Active Record
 gem 'mysql2'
 
